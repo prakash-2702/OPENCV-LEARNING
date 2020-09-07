@@ -15,7 +15,7 @@
 * Python
 
 ## Contributors
-* Prakash Nadgeri
+* [Prakash Nadgeri](https://github.com/prakash-2702)
 
 ## Acknowledgements and Resources
 * https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html
