@@ -5,7 +5,7 @@
 * [About the Project](#about-the-project)
 * [Prerequisites](#prerequisites)
 * [Contributors](#contributors)
-* [Acknowledgements and Resources](#acknowledgements-and-resources)
+* [Acknowledgements and Resources](#resources)
 
 ## About The Project
 * OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library.
@@ -17,5 +17,5 @@
 ## Contributors
 * [Prakash Nadgeri](https://github.com/prakash-2702)
 
-## Acknowledgements and Resources
+## Resources
 * https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html
